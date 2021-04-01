@@ -1,2 +1,14 @@
 django==3.0.9
 djangorestframework == 3.11.0
+gunicorn>= 19.9.0
+itsdangerous>=1.1.0
+Jinja2>=2.10.1
+MarkupSafe>=1.1.1
+Werkzeug>=0.15.5
+django-heroku
+django-bootstrap4
+six
+tinyec
+
+pycryptodome
+pillow
